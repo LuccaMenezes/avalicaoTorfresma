@@ -110,8 +110,13 @@ Inicie o servidor
 ```bash
   npm run dev
 ```
+
+## Dica para o teste
+
+No migration, já deixei um usuário criado com algumas tarefas criadas.
+
+**Email:** admin@gmail.com  
+**Senha:** 123456
 ## Desenvolvedor
 
 Desenvolvido por [@LuccaMenezes](https://github.com/LuccaMenezes)
-
-
